@@ -1,2 +1,5 @@
 /dataset
-/dataset_split
+/runs
+/venv
+/dataset_split/images
+/dataset_split/labels

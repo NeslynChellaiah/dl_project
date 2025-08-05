@@ -1,0 +1,4 @@
+Model,Precision,Recall,F1 Score,mAP50,Training Time (s)
+yolov8n.pt,0.8997,0.5853,,0.7642,941.91
+yolov8s.pt,0.9301,0.7235,,0.8386,2354.0
+yolov8m.pt,0.8001,0.7283,,0.7388,4992.39
